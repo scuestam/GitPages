@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/scuestam/GitPages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Probando las GitPages
+Como no se que poner dejo un enlace [aquí](https://scuesta.neocities.org/) a una web donde fuí subiendo mis ejercicios de Lenguaje de Marcas del año pasado.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
