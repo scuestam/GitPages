@@ -25,7 +25,7 @@ texto en **Negrita**, _Italica_ y `Código`
 [Link](enlace) and ![Image](fuente)
 ```
 
-Para sber más entra en [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para sber más sobre Markdown entra en [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Videos que están simpáticos
 
