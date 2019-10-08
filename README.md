@@ -1,11 +1,11 @@
 ## Probando las GitPages
 Como no se que poner dejo un enlace [aquí](https://scuesta.neocities.org/) a una web donde fuí subiendo mis ejercicios de Lenguaje de Marcas del año pasado.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Cada vez que haga un commit a este repositorio, GitHub Pages ejecutará [Jekyll](https://jekyllrb.com/) para rehacer la pagina de tu sitio desde el contenido de tus archivos de Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es una sintaxis ligera, fácil de usar para darle estilo a tu texto, algunos ejemplos son:
 
 ```markdown
 Sintaxis de markdown
