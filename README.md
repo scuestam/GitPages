@@ -20,7 +20,7 @@ Syntax highlighted code block
 1. Lista
 2. Numerada
 
-**Bold** and _Italic_ and `Code` text
+texto en **Negrita**, _Italica_ y `Código`
 
 [Link](url) and ![Image](src)
 ```
