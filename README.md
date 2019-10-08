@@ -8,11 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Sintaxis de markdown
 
-# Header 1
-## Header 2
-### Header 3
+# Cabecera 1
+## Cabecera 2
+### Cabecera 3
 
 - Lista 
 - Punteada
@@ -22,15 +22,11 @@ Syntax highlighted code block
 
 texto en **Negrita**, _Italica_ y `Código`
 
-[Link](url) and ![Image](src)
+[Link](enlace) and ![Image](fuente)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para sber más entra en [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Videos que están simpáticos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/scuestam/GitPages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://i.ytimg.com/vi/qatmJtIJAPw/hqdefault.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhpWMTEbMl_nCrrV9T53j0wuNuGg)
